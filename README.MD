@@ -1,7 +1,7 @@
 # Areca backup WebGUI for Docker
 
 A simple areca backup client built into a Docker container
-[Areca backup](https://www.areca-backup.org/ "Areca-backup") is an old (not updated since 2015) but simple backup client that still works today
+[Areca backup](https://areca-backup.sourceforge.io/ "Areca-backup") is an old <s>(not updated since 2015) but</s> simple backup client that still works today
 
 ## Why?
 
